@@ -1,0 +1,14 @@
+D:\C# projects\SuperheroHomework\bin\Debug\net8.0\SuperheroHomework.exe
+D:\C# projects\SuperheroHomework\bin\Debug\net8.0\SuperheroHomework.deps.json
+D:\C# projects\SuperheroHomework\bin\Debug\net8.0\SuperheroHomework.runtimeconfig.json
+D:\C# projects\SuperheroHomework\bin\Debug\net8.0\SuperheroHomework.dll
+D:\C# projects\SuperheroHomework\bin\Debug\net8.0\SuperheroHomework.pdb
+D:\C# projects\SuperheroHomework\obj\Debug\net8.0\SuperheroHomework.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\SuperheroHomework\obj\Debug\net8.0\SuperheroHomework.AssemblyInfoInputs.cache
+D:\C# projects\SuperheroHomework\obj\Debug\net8.0\SuperheroHomework.AssemblyInfo.cs
+D:\C# projects\SuperheroHomework\obj\Debug\net8.0\SuperheroHomework.csproj.CoreCompileInputs.cache
+D:\C# projects\SuperheroHomework\obj\Debug\net8.0\SuperheroHomework.dll
+D:\C# projects\SuperheroHomework\obj\Debug\net8.0\refint\SuperheroHomework.dll
+D:\C# projects\SuperheroHomework\obj\Debug\net8.0\SuperheroHomework.pdb
+D:\C# projects\SuperheroHomework\obj\Debug\net8.0\SuperheroHomework.genruntimeconfig.cache
+D:\C# projects\SuperheroHomework\obj\Debug\net8.0\ref\SuperheroHomework.dll
